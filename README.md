@@ -1,10 +1,15 @@
 - 👋 Hi, I’m @ajaychauhan4310
-- 👀 I’m interested in AI and ML
-- 🌱 I’m currently learning ...
+- 👀 B.Tech CSE (AI & ML)
+- 🌱 I’m App developer, Cybersecurity Analyst
+IBM CSA : https://www.coursera.org/account/accomplishments/professional-cert/898JYW7W9FZH
+Google Developer Profile : https://developers.google.com/profile/u/ajaychauhan4310
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+linkedin : www.linkedin.com/in/ajaychauhan4310
+Instagram : ajaychauhan4310
+Twitter : ajaychauhan4310
+
 
 <!---
-ajaychauhan4310/ajaychauhan4310 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+
 --->
