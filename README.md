@@ -8,7 +8,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-[linkedin : ajaychauhan4310](www.linkedin.com/in/ajaychauhan4310)
+[linkedin : ajaychauhan4310](https://www.linkedin.com/in/ajaychauhan4310)
 
 [Instagram : ajaychauhan4310](https://www.instagram.com/ajaychauhan4310/)
 
