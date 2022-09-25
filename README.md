@@ -12,7 +12,7 @@
 
 [Instagram : ajaychauhan4310](https://www.instagram.com/ajaychauhan4310/)
 
-[Twitter : ajaychauhan4310](http://www.linkedin.com/in/ajaychauhan4310)
+[Twitter : ajaychauhan4310](https://www.twitter.com/ajaychauhan4310)
 
 # [SPSGP-70595-Virtual-Internship---Android-Application-Development-Using-Kotlin](https://github.com/smartinternz02/SPSGP-70595-Virtual-Internship---Android-Application-Development-Using-Kotlin)
 Virtual Internship - Android Application Development Using Kotlin
