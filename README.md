@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ajaychauhan4310
 - 👀 B.Tech CSE (AI & ML)
-- 🌱 I’m App developer, Cybersecurity Analyst
+- 🌱 I’m software engineer Have experience in Data Science(AI & ML), App developer, Cybersecurity Analyst
 
 -IBM CSA : https://www.coursera.org/account/accomplishments/professional-cert/898JYW7W9FZH
 
